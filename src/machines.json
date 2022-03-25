@@ -1,0 +1,407 @@
+{
+  "machines": [
+    {
+      "id": 1,
+      "name": "Ácsgyalu",
+      "image": "gyalu.png",
+      "height": 120,
+      "description1": "A gyalu hosszú talppal és alacsony súlyponttal rendelkezik. Kése élezhető. Állványra is felszerelhető.\nA gyalu, ha nem porszívóval használják sztatikusan fel tud töltődni, mivel a por nagy része nem tud távozni és\na késhenger házban keringve folyamatos töltést okoz.\n\nÍgy javasolt minden használat után porszívóval járatva hagyja a gépet kitisztulni – így az nem fog sztatikusan feltöltődni.",
+      "specification": [
+        "Teljesítmény: 1 200 W",
+        "Teljes hossz: 525 mm",
+        "Lökésszám: 15 000 / perc",
+        "Gyalulási szélesség: 170 mm",
+        "Vágásvastagság: 2 mm",
+        "Méret (hossz x szélesség x magasság): 530 mm x 240 mm x 150 mm",
+        "Súly: 9 kg",
+        "Hangnyomásszint (LpA) db (A): 92",
+        "Hangteljesítményszint (LWA) db (A): 103",
+        "Tűrés (K) db (A): 3",
+        "Rezgéskibocsátás (ah, CHeq): 2,5 m/s2",
+        "Tűrés (K): 1,5 m/s2"
+      ],
+      "price": "7000"
+
+
+
+    },
+    {
+      "id": 2,
+      "name": "Merülő kőrfűrész",
+      "image": "korfuresz.jpg",
+      "height": 140,
+      "link": "3",
+      "accessory_name": "Vezetősín (körfűrészhez)",
+      "accessory" : " Alkalmas merülővágásokra, hossz és keresztvágásokhoz, szögbenvágásokhoz 45°-ig, gerendák, deszkák méretre vágására, OSB, forgács és rétegelt lapok méretre vágására, fakötések, csapolások kialakítására.",
+      "description1": "A körfűrész fordulatszáma szabályozható. Lágyindítású gép, mely rendelkezik motorfékkel, amely védi a felhasználót és a készüléket is.\nA konstanselektronika lehetővé teszi az elektronikus sebességszabályozást, a terhelés alatti fordulat tartásához. Egyszerűen lehet állítani a szöget.\nCsatlakoztatható hozzá porszívó. Vezetősínnel adapter nélkül használható.",
+      "specification": [
+        "Teljesítmény: 1 300 W",
+        "Üresjárati fordulatszám: 2 000 – 5 800 / perc",
+        "Tárcsaátmérő: 165 mm",
+        "Vágás mélység 90°: 55 mm",
+        "Vágás mélység 45°: 39 mm",
+        "Kábelhossz: 2,5 m",
+        "Méret (hossz x szélesség x magasság):341 mm x 225 mm x 250 mm",
+        "Súly: 4,4 kg"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Vezetősín (körfűrészhez)",
+      "image": "vezetosin.jpg",
+      "height": 150,
+      "link": "2",
+      "accessory_name": "Merülő kőrfűrész",
+      "accessory" : " ",
+      "specification": [
+        "Alumínium anyag",
+        "Könnyű, merev szerkezetű",
+        "1900 mm hosszúság",
+        "Ezekhez a modellekhez:",
+        "- Makita SP6000K",
+        "- K1 és SP6000J"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Aprító- és szecskázógép",
+      "image": "aprito.png",
+      "height": 160,
+      "description1": "Az aprítást egy „gyalukés” végzi az oldalsó lemezen az erősebb ágakhoz, valamint 16 háromszög alakú fogazott kés (4 kés mind a 4 oldalon), speciális fogazott kések a zöld ágakhoz.",
+      "description2": "Vontatható kerekein könnyen szállítható. A komposztált anyag bio trágya, védi a föld kiszáradását, ezáltal vissza jut az értékes tápanyag a földbe.\n\nEzért érdemes a kertjében felhalmozódott ágak felaprítását végbe vinni.",
+      "specification": [
+        "Típus: Benzines szecskázó",
+        "Motor: HECHT OHV",
+        "Motor: 389 cm3",
+        "Teljesítmény: 9,8 kW, 13Le",
+        "Tömege: 105 kg",
+        "Aprítható ágak max. átmérője: 5x5 cm",
+        "Oldalsó bemenet nagysága: 130x88 mm"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "SZŐNYEG- ÉS KÁRPITTISZTÍTÓ (Kärcher Puzzi 10/1)",
+      "image": "szonyegtisztito.png",
+      "height": 180,
+      "accessory" : " ",
+      "accessoryList": [
+        "Permettömlő beépített vízvezetővel, 2,5m",
+        "Kárpittisztító fej",
+        "Kiegészítő markolat",
+        "Kábelakasztó",
+        "Keskeny padlófej flexibilis szívószájjal",
+        "Kéziszerszám"
+      ],
+      "description1": "Padlófejjel/textiltisztító fejjel a szőnyegek és kárpitok tisztításához, permetezés segítségével. Ideális kis és közepes területek higiénikus és hatékony tisztítására.",
+      "description2": "1 bar permetezési nyomással, a kárpittisztító gép biztosítja a textil felületek gyengéd mélytisztítását, lenyűgöző eredményekkel, különösen a szőnyegek és kárpitok tisztításánál.",
+      "description3": "A keskeny padlófejnek köszönhetően, a gép optimális szűk helyeken való használatra, valamint flexibilis szívóél segítségével a zsúfolt területek könnyen tisztíthatók.",
+      "description4": "Beépített kábelhoroggal és tartóval rendelkezik a kioldóval és szívócsővel ellátott markolathoz.",
+      "description5": "Optimálisan alkalmazható a mindennapokban, mert a markolat beállítása szerszámok nélkül megoldható, ezen felül rendelkezik tartozék és kábel rögzítővel, valamint gyorsan át lehet váltani a padlófejről a kárpittisztító fejre. A szennyezettvíz tartály kivehető, és így használható a tisztavíz tartály feltöltéséhez.",
+      "description6": "A tartozékok széles skálájának hála sokoldalúan alkalmazható: szőnyegtisztítás, kárpittisztítás, résfúvóka az autóülések és kárpitok tisztításához.",
+      "description7": "Állítható magasságú a markolat, valamint az ergonomikus kétkezes markolat csekély súly alkalmazásával felhasználóbarát kezelhetőséget biztosít.",
+      "specification": [
+        "Max. felületteljesítmény: 20-25 m2/h",
+        "Légmennyiség: 74 l/s",
+        "Vákuum: 254mbar/25,4kPa",
+        "Permetmennyiség: 1 l/min",
+        "Permetnyomás: 1 bar",
+        "Friss-/szennyezettvíz-tartály: 10-9 l",
+        "Turbina teljesítménye: 1250 W",
+        "Szivattyú teljesítménye: 40 W",
+        "Feszültség: 220-240 V",
+        "Frekvencia: 50-60 Hz",
+        "Kábel hossza: 7,5 m",
+        "Súly kiegészítők nélkül: 10,5 kg",
+        "Méretek (hosszúság x szélesség x magasság): 690 mm x 325 mm x 440 mm"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Ipari porszívó – HECHT 8335 Z",
+      "image": "ipariporszivo.png",
+      "height": 100,
+      "description1": "Erőteljes ipari porszívó műhelyhez, garázshoz, autóhoz. Megfelelő teljesítményű motor szélsőséges körülmények között történő használatra.",
+      "description2": "Ventillátorként is használható.\n\nNedves porszívózás közvetlenül a tartályba (zsák nélkül).\n\nSzáraz porszívózás előszűrővel a papírhepa-szűrővel.",
+      "description3": "Rozsdamentes acélból készült gyűjtőtartály térfogata 35 liter. Kétrészes, teleszkópos szívócső rozsdamentes acélból.",
+      "description4": "Ürítse le a szelepet a tartály alján.\n\nTartozékok rögzítése közvetlenül a gépen.",
+      "description5": "Szívótömlő tartó.",
+      "description6": "A könnyű kezelhetőség érdekében a motorház fedelének fogantyúját kell kezelni.\n\nAljzat két klasszikus nagy kerékkel, hogy a porszívózás során könnyedén mozoghassanak.\n\nKét gyűjtőtartály reteszelő retesze a megfelelő rögzítéshez és nyomáshoz.\n\nSzívótömlő a levegő áramlásának szabályozásával a fogantyún.",
+      "description7": "A porszívónál van egy elektromos csatlakozó, amely lehetővé teszi a porszívó indításának vezérlését. Ezért, ha például egy szívó kéziszerszám van csatlakoztatva a porszívóhoz, a porszívó automatikusan elindul 3 másodpercen belül az indítás után. A fiók maximális terhelése 2000 W. A port, szennyeződést vagy vizet egy nagy, 35 literes rozsdamentes acél tartályba szívják, amely egy nagy leeresztő szeleppel van felszerelve. A porszívó szívóteljesítménye (maximális vákuum) 18 kPa.",
+      "description8": "A porszívó fém teleszkópos csővel, univerzális szívófejjel és rugalmas műanyag tömlővel rendelkezik. Tartalmaz egy papír HEPA szűrőt, egy HEPA szűrő hüvelyét a szűrő élettartamának meghosszabbításához, egy nedves vákuumszűrőt és egy darab papírzacskót.\n\nTartalmazza az elektromos csatlakozót az elektromos szerszámok csatlakoztatásához.",
+      "specification": [
+        "Feszültség: 230V/50Hz",
+        "Tartály térfogata: 35 liter",
+        "Motor teljesítmény: 1400W",
+        "Por tárolása: Porzsák nélküli",
+        "Energiaforrás: Vezetékes"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "MAGASNYOMÁSÚ MOSÓ",
+      "image": "moso.webp",
+      "height": 1000,
+      "description1": "A kompakt géposztály – gyors és alapos.\n\nA kompakt géposztály megbízható, mindenre használható készülékeit kis súly, kompakt méretek, egyszerű kezelhetőség és magas tisztítási teljesítmény jellemzi, ideálisan használható műhelyekben, udvaron stb.",
+      "description2": "Automatikus nyomáslekapcsolás: Kevesebb energia és vízfelhasználás.\n\nA készülék munkamegszakításnál azonnal lekapcsol.",
+      "description3": "Kihúzható tolófogantyú: A nagy alumíniumprofilok révén stabil és jól manőverezhető.\n\nKinyitható állapotban tartozéktartóként használható.\n\nBehúzott állapotban a készülék kényelmesen, helytakarékosan szállítható, például a szervizjárműben, kombiban.",
+      "description4": "Szivattyú technológia: A kiváló minőségű összetevők, mint pl. a sárgaréz hengerfej és a krómozott rozsdamentes dugattyúk hosszú élettartamot garantálnak.\n\nDirekt meghajtás, alig mozgó alkatrészek, karbantartásszegény, optimális hatásfok.",
+      "description5": "Tartozéktárolás: Az átgondolt részletek, mint pl. a fúvókarekesz garantálják, hogy minden tisztítási helyzetben gyorsan használatra kész legyen a készülék.",
+      "description6": "Beépített kábeltárolás tartó klippel: Beépített tömlődob 15 m –es magasnyomású tömlővel. Ezáltal nagy a hatósugár és egyszerű a tárolás (CX – változat).\n\nMobil alkalmazásokhoz\n\nEasy-Press pisztoly Softgrip betéttel\n\nRozsdamentes szórószár",
+      "description7": "FR 30 felülettisztító: A hagyományos magasnyomású sugárhoz képest akár 10-szeres felületi teljesítmény is elérhető a készülékkel.\n\nA könnyebb irányíthatóság érdekében műanyag házzal a hosszú élettartam eléréséért kétszeres kerámia csapággyal, több kezelési kényelemért rugalmas csatlakozócsuklóval és beépített parkolóállással.\n\nA készülékhez való fúvókakészletet külön kell megrendelni. Max. 180 bar/850 l/óra; 60 °C.\n\nÁtmérő: 300 mm\n\nÍgy is ismerheti: HD 5 15 Cx Plus, HD515CxPlus",
+      "specification": [
+        "Áramfajta (Ph/V/Hz): 1/230/50",
+        "Vízszállítás (l/óra): 500",
+        "Munkanyomás ( bar /MPa): 150/15",
+        "Max. nyomás (bar/MPa): 185/18.5",
+        "Max. befolyó vízhőmérséklet (°C): 60",
+        "Csatlakoz ási teljesítmény (kW): 2.7",
+        "Tömeg (kg): 28.3",
+        "Méretek (h x sz x m) (mm): 360 x 400 x 925"
+      ],
+      "accessory" : " ",
+      "accessoryList": [
+        "Kézi szórópisztoly: meghosszabbított magasnyomású pisztoly",
+        "Magasnyomású tömlő (m): 15",
+        "Szórószár (mm): 550",
+        "Háromállású fúvóka",
+        "Szennymaró",
+        "Magasnyomású tömlődob"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "MAGASNYOMÁSÚ MOSÓ (Kärcher HD 5/15 CX Plus)",
+      "image": "mosohd.jpg",
+      "height": 100,
+      "description1": "Könnyű, kompakt, sokoldalúan alkalmazható a HD 5/15 CX Plus hidegvizes magasnyomású mosó rendkívül mobilis, álló és fekvő üzemben is működtethető. A készülék praktikus tartozéktárolással rendelkezik, valamint a réz hengerfej és az automatikus nyomásmentesítés megnöveli a gép élettartamát.",
+      "description2": "Egyszerű kezelhetőség és magas tisztítási teljesítmény jellemzi, ideálisan használható műhelyekben, udvaron, stb. A hagyományos magasnyomású sugárhoz képest akár 10-szeres felületi teljesítmény is elérhető a készülékkel.",
+      "description3": "!Force magasnyomású pisztoly és EASY!Lock gyorszár az energia- és időmegtakarítás érdekében, így fáradságmentes munkát tudunk végezni, valamint az EASY!Lock gyorszár tartós és masszív zárást biztosít, mivel 5x erősebb, mint a csavarok. A készülék munkamegszakításnál azonnal lekapcsol.",
+      "description4": "Kihúzható tolófogantyú kinyitott állapotban tartozéktartóként használható. A nagy alumíniumprofilok révén stabil és jól manőverezhető. Behúzott állapotban a készülék kényelmesen, helytakarékosan szállítható.",
+      "description5": "Álló és fekvő üzemmódban egyaránt lehet használni. Fekvő üzemmódban a készülék nem a kerekeken áll, mely maximális stabilitást biztosít. A szóróegység külön parkolási és szállítási pozícióval rendelkezik.",
+      "description6": "Az automatikus nyomáscsökkentés védi az alkatrészeket, így megnöveli a gép élettartamát. Kiváló minőségű sárgaréz hengerfejjel rendelkezik, valamint nagy, kényelmesen elérhető, finom vízszűrővel, amely a szivattyút védi a vízben előforduló szennyeződésektől.",
+      "description7": "A 15 méter hosszú nagynyomású tömlő egyszerűen tárolható a beépített tömlődob segítségével.",
+      "accessory" : " Praktikus tárolódobozzal adjuk, mely tartalmaz még 1 db véső fejet 18x320 mm, 1 db fúrófejet 18x320 mm és kulcsot. ",
+      "specification": [
+        "Tápfeszültség: 1 Fázis (Ph) / 230 V / 50 Hz",
+        "Átfolyási sebesség (Vízszállítás): 500 l/h",
+        "Munkanyomás: 150 bar / 15 MPa",
+        "Max. nyomás: 200 bar / 20 MPa",
+        "Csatlakozási teljesítmény: 2800 W",
+        "Tápkábel hossza: 5 m",
+        "Tömlő hossza: 15 m",
+        "Belépő víz max. hőmérséklete: 60°C",
+        "Súly (kiegészítőkkel): 28,3 kg",
+        "Méretek (hosszúság x szélesség x magasság): 380 mm x 370 mm x 930 mm",
+        ""
+      ],
+      "accessory" : " ",
+      "accessoryList": [
+        "Kézi szórópisztoly, EASY!Force",
+        "Magasnyomású tömlő, 15 m",
+        "Szórószár, 840 mm",
+        "3 állású fúvóka (0°/25°/40°), Kézi",
+        "Szennymaró",
+        "Tömlődob",
+        "Nyomáslekapcsolás"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "FÚRÓKALAPÁCS (HECHT 1069 Elektromos fúrókalapács – vezetékes)",
+      "image": "furokalapacs.jpg",
+      "height": 100,
+      "accessory" : " Praktikus tárolódobozzal adjuk, mely tartalmaz még 1 db véső fejet 18x320 mm, 1 db fúrófejet 18x320 mm és kulcsot. ",
+      "description1": "Ez egy nagy teljesítményű fúró- és bontó kalapács, kompromisszum nélküli használatra, még a legigényesebb körülmények között is. Használható különböző anyagokhoz: vas, beton, fa. Megbízható SDS-MAX tokmány az egyszerű szerszámcseréhez kulcs nélkül. A tartós minőségi átvitel egy fémszekrényben tárolódik.",
+      "description2": "\nHECHT 1069 Elektromos fúrókalapács – vezetékes\nSpecifikáció\nElektromos motor: 230V/50Hz\nTeljesítmény: 1600 W\nFordulatszám terhelés nélkül: 560 fordulat/perc\nÜtés: 3530 ütés/perc\nÜtés erőssége: 9 J\nMax. furat átmérő: 40 mm beton, 65 mm fa.\nTömeg: 7,3 kg\nTermékleírás\nEz egy nagy teljesítményű fúró- és bontó kalapács, kompromisszum nélküli használatra, még a legigényesebb körülmények között is. Használható különböző anyagokhoz: vas, beton, fa. Megbízható SDS-MAX tokmány az egyszerű szerszámcseréhez kulcs nélkül. A tartós minőségi átvitel egy fémszekrényben tárolódik.\n\nEgy forgó kapcsoló, amely leállítási gombbal (forgatás leállítása) lehetővé teszi a kívánt funkció beállítását:",
+      "description3": "kalapácsfúrás (betonba, tégla vagy falazatba való fúráshoz",
+      "description4": "szerszám forgatásának beállítása (pl.: a megfelelő véső beállítás kiválasztása kaszáláskor)",
+      "description5": "kaszálás (csempe eltávolítása, kerámia felületek, kábel kaszálás, stb.)",
+      "description6": "A további állítható fogantyú mindkét kezét ergonomikusan formázza, lágy, csúszásmentes felülettel jó fogást biztosít. Segédmarkolatának köszönhetően kétkezes fúrásra is alkalmas. Könnyen hozzáférhető kenőanyagtartály a gép hosszú élettartamának fenntartásához.",
+      "specification": [
+        "Elektromos motor: 230V/50Hz",
+        "Teljesítmény: 1600 W",
+        "Fordulatszám terhelés nélkül: 560 fordulat/perc",
+        "Ütés: 3530 ütés/perc",
+        "Ütés erőssége: 9 J",
+        "Max. furat átmérő: 40 mm beton, 65 mm fa.",
+        "Tömeg: 7,3 kg"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "BONTÓKALAPÁCS (Parkside PAH1700C3)",
+      "image": "bonto.jpg",
+      "height": 150,
+      "specification": [
+        "Nagy ütőerővel bontási munkákhoz és beton, kőzetek és falazatok áttöréséhez",
+        "SDS-max tokmány",
+        "Rögzítőkapcsoló tartós üzemmódhoz",
+        "Fő fogantyú rázkódáscsillapítással",
+        "12 beállítható vésőpozíció",
+        "Ütközési energia: 50 Joule",
+        "Ütésszám: kb. 20-2100 ütés/perc",
+        "Tartozékok: 1 db lapos véső, 1 db hegyes véső hossz: kb. 380 mm, kb. 56 g gépzsír, 1 db szerelőszerszám, 2 db pótszénkefe, 1 db görgős tárolókoffer",
+        "Állítható és 360-ban elfordítható pótfogantyú",
+        "Teljesítmény: 1700 W"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "BONTÓKALAPÁCS 15 KG-OS (Steinhaus PRO-DH1700)",
+      "image": "bonto15.jpg",
+      "height": 160,
+      "description1": "A PRO-DH1700 bontókalapács egy erős, 1700 W-os motorral van ellátva, mely könnyedén működik az erős pneumatikus mechanizmusnak köszönhetően, így lehetővé teszi a fúrást, ütvefúrást, vésést.",
+      "description2": "Az SDS-HEX rendszer 30 mm-es tokmánnyal lehetővé teszi a kiegészítők biztonságos cseréjét.",
+      "description3": "A műanyag koffernek köszönhetően biztonságosan és kényelmesen szállítható.",
+      "specification": [
+        "Ajánlott terület: beton, kő",
+        "Tápellátás típus: hálózat",
+        "Kábel hossza: 4 m",
+        "Fúrótokmány típusa: HEX",
+        "Funkciók: Softgrip lágyfogantyú",
+        "Teljesítmény: 1700 W",
+        "Tápfeszültség: 230 V",
+        "Réz motor",
+        "Ütésszám: 1400/perc",
+        "Ütési energia: 60 J",
+        "Saját súly: 15,6 kg",
+        "Csomagolással, tartozékokkal együttes súlya: 24 kg",
+        "Vibráció elleni fogantyú, ami a megfelelő pozícióba helyezhető a biztonságos tartásért."
+      ],
+      "accessory" : " ",
+      "accessoryList": [
+        "Hegyes véső SDS-Plus 30x410 mm",
+        "Lapos véső SDS-Plus 30x410 mm",
+        "2 imbusz kulcs",
+        "Szén pár",
+        "Műanyag görgős koffer"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "KŐMŰVES VASBAK",
+      "image": "komuvesvasbak.png",
+      "height": 160,
+      "description1": "Alkalmas kőműves és karbanatartási munkálatokhoz. Stabil csőszerkezetű kőműves vasbak átlós és vízszintes merevítéssel is rendelkezik. Ezen felül van ütköző a pallótartó csövön, és így a két ütköző megakadályozza a palló oldalirányú lecsúszását. A talpak pedig stabil helyzetet biztosítanak.",
+      "description2": "Összecsukható, így a szállításnál és tárolásnál helytakarékos.",
+      "specification": [
+        "Állítható magasság: 120-225 cm-ig",
+        "Állószélesség: 100 cm",
+        "Terhelhetőség: 500 kg/db",
+        "Súlya: 19 kg",
+        "Szállítási méretek: 147-148 cm széles, 136 cm magas, 17 cm vastag"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "POLISZTIROLVÁGÓ (Ztrust PV-51-1370A EasyCut)",
+      "image": "polisztirol.jpg",
+      "height": 170,
+      "accessory" : "Vágódrót ",
+      "description1": "Az eszköz segítségével könnyedén és pontosan vághat méretre polisztirol szigetelőanyagokat. Így használható építőiparban és csomagolóiparban egyaránt.",
+      "specification": [
+        "Hálózati feszültség: 230 V",
+        "Névleges teljesítményfelvétel: 200 W",
+        "Max. vágáshossz: 1370 mm",
+        "Max. vágásszélesség: 330 mm",
+        "Vonalzó méretek: 1000 mm; 0-90°",
+        "Védelmi osztály: IP44",
+        "Súly: 15,6 kg",
+        "Méretek: 1700 mm x 430 mm x 170 mm"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "PADLÓ VENTILÁTOR (Praktiker PPRV 50)",
+      "image": "padloventi.png",
+      "height": 130,
+      "description1": "Az 50 cm átmérőjű fém lapátoknak köszönhetően a padlóventilátor otthoni vagy irodai használatra egyaránt ajánlott.",
+      "description2": "50 cm lapátátmérővel rendelkezik az eszköz. A fém lapátok teljesítménye a padlóventilátor oldalán található sebességszabályozónak köszönhetően 3 fokozatban könnyen, kényelmesen és egyszerűen szabályozható. Ezen felül a fejdőlésszög (90°) szintén állítható.",
+      "specification": [
+        "Hangteljesítményszint LWA = 70 dB (A)",
+        "Max. légtömegáram: kb. 173 m3 / perc",
+        "Tápkábel hossza: 1,6 m",
+        "Tápellátás: 230 V / 50 Hz / 120 W",
+        "Tömege: 5 kg",
+        "Méretek (magasság x mélység x szélesség): 58,74 cm x 56,24 cm x 18,84 cm"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "ÁRAMFEJLESZTŐ (HECHT GG 5000)",
+      "image": "aramfejleszto.jpg",
+      "height": 170,
+      "description1": "A három 230 V-os aljzatot lehet használni standard egyfázisú eszközök áram ellátásához. Ez az eszköz szinte bárhol használható, és a folyamatos 400 watt teljesítménye elegendő sok alkalmazáshoz. A készülék túlterhelés elleni védelemmel van ellátva. Az automatikus (AVR) feszültségszabályozás megakadályozza a feszültség ingadozását, így stabil üzemre képes.\n\nA 4 ütemű HECHT benzinmotor 420 cm3 hengerűrtartalommal, 10,7 LE teljesítmény leadására képes. Egy teli tank, 28 liter üzemanyaggal körülbelül 27 óra folyamatos áramtermelésre képes. Ez az adat a terhelés függvényében módosulhat.\n\nA HECHT GG 5000 generátor indítása egy hagyományos berántó szerkezet által történik. A motor és az elektronika egy acél cső keretben van elhelyezve, futó kerekekkel és mozgatható fogantyúval. Ezáltal nagyon könnyű mozgatni a 65 kg-os gépet. A fent említett paraméterek alapján alkalmazható épületek energiaforrásaként való használatra. Egy tökéletes biztonsági tartalék áramforrás áramszünet esetére.",
+      "description2": "Az áramellátás számításakor az alábbi tényezőket is figyelembe kell venni:",
+      "description3": "Inverteres hegesztőgépek esetén a javasolt együttható 1,25-1,5.\nUPS (szünetmentes tápegységek) esetén az együttható 1-2,3 között változhat, a pontos értéket a szünetmentes tápegység műszaki adatainak ismeretében kell kiválasztani.\nAmennyiben semmilyen információ nem áll rendelkezésre, 1,8-2 közötti értékkel ajánlott számolni.",
+      "description4": "Elektromos motorok esetén: Az elektromos motorok nagy indítási áramot igényelnek, kellő pontossággal megbecsülhető ez az érték: ismernünk kell a motor teljesítményét (Watt)",
+      "description5": "kefés motorok (fúrógépek, sarokcsiszolók, stb.) esetén az együttható 1,4\naszinkron motorok esetén (kompresszor, betonkeverő,stb.) az együttható 2,5-3\nPéldául egy 1,5 kW teljesítményű motorral felszerelt betonkeverő teljesítmény igénye így 1,5 kW X 2,5 = 3,75 kW",
+      "description6": "Indítási kapacitás: Az elektromos motorok az indítás ideje alatt a névleges áramfelvitel többszörösét is felveszik. Ha a fogyasztó nagy indítóáramot igényel az áramfejlesztő/aggregátor teljesítményének legalább 2-3-szorosan kell meghaladnia a róla üzemeltetett elektromos motor teljesítményét. Az indítóáram szempontjából legkedvezőtlenebbek a gyakran indított, nagy áramot felvevő elektromos motorok, pl.: szivattyúk, légkompresszorok, liftek, betonkeverő, vakológép, stb. Ilyenkor előfordulhat, akár 6-9-szeres áramfelvétel, amelyet az áramfejlesztőnek elő kell állítani, még ha rövid időre is. Ellenkező esetben a motor nem indul el.",
+      "description7": "Az áramfejlesztők fáziseltolódásáról röviden:",
+      "description8": "Az egyfázisú rendszerekben a fáziseltolódás: (cosφ)– (1~) 3,0kVA - 3kW\nHáromfázisú rendszerekben (400V) a fáziseltolódás: (cosφ)=0.8\n* A motor teljesítményének adatait a SAE J1940 alapján mértük.\n\nA pontosabb összehasonlítás érdekében használja a motor hengerűrtartalmára és típusára vonatkozó adatokat.",
+      "specification": [
+        "Motor térfogat: 420 cm3",
+        "Állandó teljesítmény: 4000 W",
+        "Max. teljesítmény: 4500 W",
+        "Feszültség: 230 V /= 12 V",
+        "Zajszint: 96 dB",
+        "Üzemanyag tank mérete: 28 liter",
+        "Tömege: 65 kg",
+        "Teljesítmény SAE J1940 szerint: 10,7 HP *",
+        "Áram 230V/12V: 17,4/6A",
+        "4-ütemű motor (HECHT OHV)",
+        "Egyfázisú",
+        "Lehajtható fogantyú",
+        "ARV feszültség szabályozó"
+      ],
+      "accessory" : "A HECHT GG 5000 stabil és nagyon erős áramfejlesztő, mely fel van szerelve: ",
+      "accessoryList": [
+        "Hegyes véső SDS-Plus 30x410 mm",
+        "Lapos véső SDS-Plus 30x410 mm",
+        "2 imbusz kulcs",
+        "Szén pár",
+        "Műanyag görgős koffer"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "LÉGZÉSFIGYELŐ (Baby Controll BC-210)",
+      "image": "legzes.png",
+      "height": 140,
+      "description1": "Klinikailag tesztelt orvostechnikai eszköz.",
+      "specification": [
+        "2 db nagyméretű érzékelőlap",
+        "További érzékelőlapokkal bővíthető",
+        "Kettős sziréna",
+        "9 fokozatú érzékenység",
+        "Eseménymemória",
+        "Működése: 2 db 1,5 V AAA elemmel"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "BABAMÉRLEG (Laica PS3001)",
+      "image": "merleg.png",
+      "height": 130,
+      "description1": "Igazán pontos, megbízható mérleg, mely tökéletes az egyes szoptatások alatt elfogyasztott tej mennyiségének ellenőrzéséhez, így a baba heti, havi súlygyarapodásának nyomon követéséhez.",
+      "description2": "A nagy LCD kijelzőnek köszönhetően az adatok könnyen, gyorsan leolvashatók.",
+      "description3": "A baba biztonságos méréséhez hajlított mérőfelülettel rendelkezik.\n\n",
+      "description4": "A TARA funkció használatával a gyermek puha anyagra helyezhető, mégis megkapható a baba pontos súlya.\n\n",
+      "description5": "Rendelkezik SÚLYRÖGZÍTŐ funkcióval, melynek lényege, hogy a gyermek állandó mozgása ellenére a kijelzőn pontos érték jelenik meg.\n\n",
+      "description6": "Higiénikus, könnyen tisztántartható, lemosható. Kezelése egyszerű, nem igényel különösebb szakértelmet. Az eszköz igen könnyű, így egyszerűen szállítható költözés, nyaralás esetén is.\n\n",
+      "specification": [
+        "Mérési határa: 20 kg.",
+        "Beosztása: 5 gr",
+        "Nagy LCD kijelző",
+        "Méretek: 52 cm x 32 cm x 5,6 cm",
+        "Működése: 4 db 1,5 V AAA elemmel"
+      ]
+    }
+
+
+
+
+  ]
+}
+
