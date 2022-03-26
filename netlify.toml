@@ -72,7 +72,7 @@
 # A basic redirect rule
 [[redirects]]
   from = "/*"
-  to = "/machines/:id"
+  to = "/"
 
 # A redirect rule with many of the supported properties
 [[redirects]]
@@ -118,7 +118,7 @@
 # that handle routing internally.
 [[redirects]]
   from = "/*"
-  to = "/index.html"
+  to = "/"
   status = 200
 
 [[headers]]
