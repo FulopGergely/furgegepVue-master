@@ -6,6 +6,7 @@ import Home from "../views/HomeTest.vue";
 Vue.use(VueRouter);
 
 const routes = [
+  {path: "/home", redirect: "/"}, //visszairányít a /home a gyökérbe
   {
     path: "/",
     component: () =>

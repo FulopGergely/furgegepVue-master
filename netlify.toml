@@ -12,7 +12,6 @@
   # a base has not been set. This sample publishes the directory
   # located at the absolute path "root/project/build-output"
 
-
   publish = "build-output/"
 
   # Default build command.
@@ -72,7 +71,7 @@
 # A basic redirect rule
 [[redirects]]
   from = "/*"
-  to = "/"
+  to = "/machines/:id"
 
 # A redirect rule with many of the supported properties
 [[redirects]]
@@ -118,7 +117,7 @@
 # that handle routing internally.
 [[redirects]]
   from = "/*"
-  to = "/"
+  to = "/index.html"
   status = 200
 
 [[headers]]
